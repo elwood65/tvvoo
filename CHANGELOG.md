@@ -1,5 +1,24 @@
 # Changelog
 
+## [1.1.0](https://github.com/elwood65/tvvoo/compare/v1.0.4...v1.1.0) (2025-09-14)
+
+
+### Features
+
+* introduce release versions ([fecda1c](https://github.com/elwood65/tvvoo/commit/fecda1c5fed1e1d7ffa07d8a2cf30b842becf166))
+* introduce release versions ([712ace8](https://github.com/elwood65/tvvoo/commit/712ace8e860488712fac982ec3a2bc04838d4c37))
+
+
+### Bug Fixes
+
+* group channel (1) and (2) and fix none cat ([b703027](https://github.com/elwood65/tvvoo/commit/b7030275e86579eeb07b4a5542dc324d36eaf93b))
+* group channel (1) and (2) and fix none cat ([b703027](https://github.com/elwood65/tvvoo/commit/b7030275e86579eeb07b4a5542dc324d36eaf93b))
+* search ([0029b9e](https://github.com/elwood65/tvvoo/commit/0029b9e071dd9a28f2e7d26b2cd7579d825ad193))
+* search ([e37beb8](https://github.com/elwood65/tvvoo/commit/e37beb8636df891df5790d1484aa6781e9c0f220))
+* Search ([e37beb8](https://github.com/elwood65/tvvoo/commit/e37beb8636df891df5790d1484aa6781e9c0f220))
+* spain logo and cat ([196744c](https://github.com/elwood65/tvvoo/commit/196744c24dbaa04c8510215e58618f91308be8b6))
+* updating name ([abedbe1](https://github.com/elwood65/tvvoo/commit/abedbe19b50a425115cdccf2ba382b0bdc6e0b2e))
+
 ## [1.0.4](https://github.com/qwertyuiop8899/tvvoo/compare/v1.0.3...v1.0.4) (2025-09-13)
 
 
